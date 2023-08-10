@@ -17,7 +17,7 @@ def anonymous(key):
     print(key)
 
 
-with Listener(on_press=anonymous) as haker:
-    haker.join()
+with Listener(on_press=anonymous) as hacker:
+    hacker.join()
 
 
