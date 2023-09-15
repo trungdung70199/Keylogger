@@ -1,4 +1,5 @@
 from pynput.keyboard import Listener
+#pynput.mouse: control mouse
 
 def anonymous(key):
     key = str(key)
